@@ -1,0 +1,9 @@
+/* Скрыть заголовок Table of contents */
+.md-nav__title {
+    display: none !important;
+}
+
+.md-nav--primary .md-nav__list {
+    margin-top: 0 !important;
+}
+

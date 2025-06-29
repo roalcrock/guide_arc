@@ -1,6 +1,17 @@
-site_name: Guide to Arc
+site_name: Гайд по внесению изменений в Arc
 theme:
   name: material
 docs_dir: docs/
+
+extra_css:
+ - stylesheets/extra.css
+
 nav:
-  - Home: index.md
+  - Внесение изменений и создание Pull Request в Arc: index.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate 
+    primary: indigo
+    accent: indigo
