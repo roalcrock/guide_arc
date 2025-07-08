@@ -2,6 +2,8 @@ site_name: Гайд по внесению изменений в Arc
 theme:
   name: material
 
+
+
   
 docs_dir: docs/
 
