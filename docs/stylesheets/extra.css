@@ -3,7 +3,34 @@
     display: none !important;
 }
 
-.md-nav--primary .md-nav__list {
-    margin-top: 0 !important;
+.md-content {
+  background-color: #1e1e2f !important;
 }
+
+.md-typeset code {
+  background-color: #2a2a40;
+  color: #f84747;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'Fira Code', monospace;
+  font-size: 0.95em;
+}
+
+body {
+  background-color: #1e1e2f;
+  color: #f0f0f0;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+}
+
+.md-typeset h1 {
+  color: #5E7DB9;
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+.md-typeset h2,
+.md-typeset h3 {
+  text-align: justify; 
+}
+
 

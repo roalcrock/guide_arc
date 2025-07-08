@@ -1,4 +1,4 @@
-# Внесение изменений и создание Pull Request в Arc
+<h1 class="name" id="h1"> Внесение изменений </br>и создание Pull Request в Arc</h1>
 
 ## Основные команды Arc
  
